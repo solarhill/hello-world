@@ -1,6 +1,3 @@
-# hello-world
-test repository
-
 Named after an astronomical observatory used to view the total solar eclipse of 1869, Solar Hill is the first Bristol, Virginia neighborhood to be listed on both the Virginia Landmarks and National Historic Places registers. It has been called “one of the finest collections of historic residential architecture in the region.” Homes range in age from the 1800s to early 1900s with many beautiful examples of Colonial, Victorian, Neoclassical and Craftsman styles. Some of Bristol’s most influential personalities lived here and some of its most colorful history occurred here.
 
 [Test](../artifacts/test.pdf)
